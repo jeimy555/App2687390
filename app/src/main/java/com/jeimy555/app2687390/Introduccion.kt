@@ -4,7 +4,7 @@ class Introduccion {
 }
 
 fun main() {
-/*
+
 //println imprime en un salto de linea
 //print imprime en una sola linea
 print("uwu uwu")
@@ -18,7 +18,7 @@ var name2: String="jeimy alejandra"
 //true=1 false=0
 //los resultados operacionales son el mismo tipo de variable que los datos originales
 
-*/
+
 
     val nombre: String="Jeimy Barbosa"
     var edad: Byte=18
